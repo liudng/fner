@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ~/src/fner
+
+python3 fner.py $@
