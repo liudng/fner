@@ -53,6 +53,12 @@ python3 fner.py $@
 </openbox_config>
 ```
 
+## Screenshots
+
+![brightness](screenshots/brightness.png)
+
+![volume](screenshots/volume.png)
+
 ## References
 
 * https://github.com/nwg-piotr/obhud
